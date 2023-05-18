@@ -1,0 +1,12 @@
+alchemy==20.5
+certifi==2023.5.7
+chardet==3.0.4
+docutils==0.20.1
+filelock==3.0.12
+idna==2.8
+lockfile==0.12.2
+python-daemon==2.2.4
+requests==2.22.0
+SQLAlchemy==2.0.13
+typing_extensions==4.5.0
+urllib3==1.25.11
